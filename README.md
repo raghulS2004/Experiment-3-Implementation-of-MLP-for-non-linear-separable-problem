@@ -121,6 +121,8 @@ predict(w1,w2,test)
 ```
  **OUTPUT** 
 ![ss1](https://user-images.githubusercontent.com/122069938/236984481-8fa11147-2ddd-47e3-9a67-1b79822097a1.png)
+
+
 ![ss2](https://user-images.githubusercontent.com/122069938/236984522-043ab3c7-e5f4-4a44-b66e-72af5dc6053a.png)
 
 
