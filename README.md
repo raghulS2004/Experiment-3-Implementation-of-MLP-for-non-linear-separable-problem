@@ -120,9 +120,9 @@ test=np.array([[1],[1]])
 predict(w1,w2,test)
 ```
  **OUTPUT** 
-![nueral exp 3](https://user-images.githubusercont!
-[ss2](https://user-images.githubusercontent.com/122069938/236982119-d7089963-97cf-48f4-a44b-c7aa92f1e7fe.png)
-ent.com/122069938/236981907-be4a1b3b-783f-4d5d-95f9-18d913a9eb8a.png)
+![ss1](https://user-images.githubusercontent.com/122069938/236984481-8fa11147-2ddd-47e3-9a67-1b79822097a1.png)
+![ss2](https://user-images.githubusercontent.com/122069938/236984522-043ab3c7-e5f4-4a44-b66e-72af5dc6053a.png)
+
 
 ** result**
 
