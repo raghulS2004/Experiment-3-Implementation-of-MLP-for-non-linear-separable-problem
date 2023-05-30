@@ -120,13 +120,16 @@ test=np.array([[1],[1]])
 predict(w1,w2,test)
 ```
  **OUTPUT** 
-![ss1](https://user-images.githubusercontent.com/122069938/236984481-8fa11147-2ddd-47e3-9a67-1b79822097a1.png)
-
-
-![ss2](https://user-images.githubusercontent.com/122069938/236984522-043ab3c7-e5f4-4a44-b66e-72af5dc6053a.png)
+ 
+ 
+![1N](https://user-images.githubusercontent.com/119091638/234478680-ea4f29f9-75fb-4f01-b854-3c73c88cf35b.png)
+ 
+ 
+ 
+![2N](https://user-images.githubusercontent.com/119091638/234478705-67141ef9-3adc-4e82-b30f-12b6755d8130.png)
 
 
 ** result**
 
 implementation-of-mlp-for-non-linear-seperable-problem successfully completed
-``
+
